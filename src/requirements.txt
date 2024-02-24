@@ -1,0 +1,3 @@
+Flask==3.0.2
+mecab-python3==1.0.8
+unidic-lite==1.0.8
